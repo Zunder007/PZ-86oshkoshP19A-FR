@@ -1,0 +1,40 @@
+IG_UI_FR = {
+	IGUI_VehicleName86oshkoshUSMC = "'86 Oshkosh P19A USMC"
+	IGUI_VehicleName86oshkoshKYFD = "'86 Oshkosh P19A KYFD"
+	IGUI_VehicleName86oshkoshFRTR55 = "P19A FRTR55"
+	IGUI_VehicleName86oshkoshP19ABurnt = "Oshkosh P19A Brûlé"
+
+	IGUI_VehicleNameTrailerM1082 = "M1082 Remorque"
+	IGUI_VehicleNameTrailerM1082tarp = "M1082 Remorque bâchée"
+	IGUI_VehicleNameTrailerM1095 = "M1095 Remorque"
+	IGUI_VehicleNameTrailerM1095tarp = "M1095 Remorque bâchée"
+
+	IGUI_VehiclePartCatP19Arighttrunk = "Coffre côté droit",
+	IGUI_VehiclePartCatP19Alefttrunk = "Coffre côté gauche",
+
+	IGUI_VehiclePartP19ABigTrunkCompartment0 = "Grand compartiment supérieur",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1 = "Petit compartiment gauche",
+	IGUI_VehiclePartP19ASmallTrunkCompartment2 = "Petit compartiment central",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3 = "Petit compartiment droit",
+
+	IGUI_VehiclePartP19ABigTrunkCompartment0b = "Grand compartiment supérieur",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1b = "Petit compartiment gauche",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3b = "Petit compartiment droit",
+
+	IGUI_VehiclePartP19Ahatch = "Trappe de toit",
+	IGUI_VehiclePartP19ARoofrack = "Galerie de toit",
+	IGUI_VehiclePartTrunkDoor2 = "Fermeture de coffre",
+
+	IGUI_VehiclePartP19AFenderLeft = "Garde-boue arrière gauche",
+	IGUI_VehiclePartP19AFenderRight = "Garde-boue arrière droit",
+
+	IGUI_VehiclePartP19ASpareMountLeft = "Support de rechange arrière",
+	IGUI_VehiclePartP19ASpareMountRear = "Support de rechange de toit",
+
+	IGUI_VehiclePartP19ASpareTireLeft = "Pneu de secours arrière",
+	IGUI_VehiclePartP19ASpareTireRear = "Pneu de secours de toit",
+
+	IGUI_VehiclePartP19AWindshieldArmor = "Armure de pare-brise",
+	IGUI_VehiclePartP19ADoorFrontLeftArmor = "Armure de porte avant gauche",
+	IGUI_VehiclePartP19ADoorFrontRightArmor = "Armure de porte avant droite",
+}
