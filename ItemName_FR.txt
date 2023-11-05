@@ -17,5 +17,5 @@ ItemName_FR = {
 	ItemName_Base.P19ASpareMount2_Item = "P19A: Support de roue de secours de toit",
 	ItemName_Base.P19ATrunkDoor2 = "P19A: Fermeture de coffre",
 	ItemName_Base.P19AWindshield2 = "P19A: Pare-brise",
-	ItemName_Base.P19AWindshieldArmor1_Item = "P19A: Armure de pare-brise artisanal",
+	ItemName_Base.P19AWindshieldArmor1_Item = "P19A: Blindage de pare-brise artisanal",
 }
