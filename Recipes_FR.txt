@@ -8,9 +8,9 @@ Recipe_FR = {
 	Recipe_Make_P19A_Roofrack = "Galerie de toit",
 	Recipe_Make_P19A_Side_Window = "Fenêtre latérale",
 	Recipe_Make_P19A_Side_Window_1 = "Fenêtre latérale",
-	Recipe_Make_P19A_Trunk_Lid = "Fermeture de coffre",
+	Recipe_Make_P19A_Trunk_Lid = "Coffre",
 	Recipe_Make_P19A_Windshield = "Pare-brise",
-	Recipe_Make_P19A_Windshield_Armor = "Armure de pare-brise",
+	Recipe_Make_P19A_Windshield_Armor = "Blindage de pare-brise",
 	Recipe_Make_Roof_Spare_Tire_Mount = "Support de roue de secours de toit",
 	Recipe_Make_Side_Spare_Tire_Mount = "Support de roue de secours latéral",
 }
