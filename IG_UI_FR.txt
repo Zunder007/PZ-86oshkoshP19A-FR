@@ -23,7 +23,7 @@ IG_UI_FR = {
 
 	IGUI_VehiclePartP19Ahatch = "Trappe de toit",
 	IGUI_VehiclePartP19ARoofrack = "Galerie de toit",
-	IGUI_VehiclePartTrunkDoor2 = "Fermeture de coffre",
+	IGUI_VehiclePartTrunkDoor2 = "Coffre",
 
 	IGUI_VehiclePartP19AFenderLeft = "Garde-boue arrière gauche",
 	IGUI_VehiclePartP19AFenderRight = "Garde-boue arrière droit",
@@ -34,7 +34,9 @@ IG_UI_FR = {
 	IGUI_VehiclePartP19ASpareTireLeft = "Pneu de secours arrière",
 	IGUI_VehiclePartP19ASpareTireRear = "Pneu de secours de toit",
 
-	IGUI_VehiclePartP19AWindshieldArmor = "Armure de pare-brise",
-	IGUI_VehiclePartP19ADoorFrontLeftArmor = "Armure de porte avant gauche",
-	IGUI_VehiclePartP19ADoorFrontRightArmor = "Armure de porte avant droite",
+	IGUI_VehiclePartP19AWindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartP19ADoorFrontLeftArmor = "Blindage de porte avant gauche",
+	IGUI_VehiclePartP19ADoorFrontRightArmor = "Blindage de porte avant droite",
+
+	IGUI_CraftCategory_P19A = "'86 Oshkosh P19A",
 }
